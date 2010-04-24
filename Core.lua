@@ -6,7 +6,8 @@
 
 TFE = LibStub("AceAddon-3.0"):NewAddon(
   "TrinketsFollowEquipment",
-  "AceEvent-3.0",
+  "AceConsole-3.0",
+  "AceEvent-3.0"
 )
 
 function TFE:OnEnable()
